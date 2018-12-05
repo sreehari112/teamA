@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: staging
   remote_user: root
   sudo: yes
   tasks:
